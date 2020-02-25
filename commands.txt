@@ -1,4 +1,4 @@
-Server: Ubuntu 16.04 Version
+Servers: Ubuntu 16.04 Version
 =====
 added line
 1. install JAVA
